@@ -55,7 +55,7 @@
   }
   
   /* 11. для всіх тегів li з класом bold встановити всі заглавні літери */
-  li ~ bold {
+  li ~ .bold {
     text-transform: uppercase;
   }
   
